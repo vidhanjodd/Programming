@@ -1,0 +1,45 @@
+Assingment of date 30-06-2025
+
+write a program to find factors or divisors for the given number
+write a program to print the sum of all the factors
+write a program to define a method to check the given number is perfect number or not
+
+07-07-2025
+
+write a program to define the method to print product of each digit present in the number
+write a program to define a method to print sum of prime digits present in the number
+write a program to define a method to check the number is spy number is not
+   ( spy number means sum of each digit should be equal to product of each digit)
+
+08-07-2025	CW
+write a program to define a method to check the given number is neon number or not
+write a program to define a method to check the given number contains only odd digits or not
+
+
+08-07-2025 HW
+write a program to define a method to reverse the given number 
+write a program to define a method to check the given number is palindrome or not
+write a program to define a method to check the given number strong number or not
+
+11-07-2025
+write a program to define a method to check the number is happy number or not 
+write a program to print all the prime numbers present between 1 to 100
+
+14-07-2025
+write a program to check the smallest number between three numbers using ternary operator
+write a program to find the sum of all strong numbers present between 1 and n
+write a program to count the number of palindrome numbers  from 1 to 1000
+
+15-07-2025
+write a program to print first n prime prime numbers
+write a program to print nth prime number
+write a program to define a method to check the given number is disarium number
+     ( disarium number - sum of power of each digit based their respective position equal to the number )
+
+write a program to print nearest prime number for the given number
+write a program to define a method to convert the given decimal value in binary;
+write a program to define a method to given decimal vale into octal;
+write a program to define a method to convert decimal to hexadecimal;
+
+write a program to define a method to convert given binary value into decimal;
+write a program to print first n fibonacci number;
